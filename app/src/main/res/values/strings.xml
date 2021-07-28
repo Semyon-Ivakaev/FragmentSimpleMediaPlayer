@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment Simple Media Player</string>
+    <string name="media_player">Media Player</string>
+    <string name="mp4">https://images-assets.nasa.gov/video/GSFC_20100126_Nova_m10547_SuperNova/GSFC_20100126_Nova_m10547_SuperNova~orig.mp4</string>
+</resources>
